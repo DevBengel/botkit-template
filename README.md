@@ -1,4 +1,4 @@
-# Botkit template
+# Botkit template von Björn
 
 This project implements a Botkit + Webex adapter bot, based on the [generator-botkit](https://www.npmjs.com/package/generator-botkit) Yoeman template, providing a few extra good-practice features, plus several interesting samples:
 
